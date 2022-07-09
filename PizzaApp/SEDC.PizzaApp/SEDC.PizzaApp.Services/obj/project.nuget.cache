@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XTb6VHZNPIjSPnqjvl+O23mWaRTmNcMgs96gpSfnVsgvNdSqCZ3bQX4eO+0IOtEYG3mN/4vcW1LSvD4faDq3Gw==",
+  "dgSpecHash": "54PXzN+gEMZKDjEKlu6a2g2VE4RlmBmxs5PVxNyjX5vj86n/kq4wNRhspTxbN5PwOKph9Y15vqcGg+8xJ2ibXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj",
+  "projectFilePath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Code\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Code\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

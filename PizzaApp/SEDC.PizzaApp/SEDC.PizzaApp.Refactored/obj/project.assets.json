@@ -2725,11 +2725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+      "projectUniqueName": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
       "projectName": "SEDC.PizzaApp.Refactored",
-      "projectPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+      "projectPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
       "packagesPath": "C:\\Users\\Code\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\obj\\",
+      "outputPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2746,17 +2746,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj": {
-              "projectPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj"
+            "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj"
             },
-            "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj": {
-              "projectPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj"
+            "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj": {
+              "projectPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj"
             },
-            "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
-              "projectPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
+            "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
+              "projectPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
             },
-            "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
+            "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
             }
           }
         }

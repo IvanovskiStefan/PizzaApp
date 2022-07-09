@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
       "projectName": "SEDC.PizzaApp.Domain",
-      "projectPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+      "projectPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
       "packagesPath": "C:\\Users\\Code\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Code\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqRzTJbt163OeIo40SsLu5ag9ZxZa28YwexvMdRgbTAchoJ8jvXxxqT3nl8qbf+DR/TxiGYiv3lf6lJyTBnyLg==",
+  "dgSpecHash": "aK3bGyuPsRlsA6P1HuySGS9q3y4oJnLl596XICo7vTQlH1iTcMdSHqlYux+kvyl9oKnTfIBM6QnsfppRuuQGNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj",
+  "projectFilePath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMHodAY/CcnBPcgJ4pMEZdDelqsKCObQh5o0RR1gxeAJki4qPCGPQtqWBehaOHzvVpjw+eRnXGh9CTWhEzUAkQ==",
+  "dgSpecHash": "85vJ+Olk8gMYPg08eW5iSMH2kwjKs0/1r7JDc2R0jasuMr15776/c/uvXxyJo/bdDGAAUKGoC5zqK30Amedjfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

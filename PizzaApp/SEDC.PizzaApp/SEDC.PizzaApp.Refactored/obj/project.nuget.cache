@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dlu8t3TlV5fiIQhVbI1jD7knQk/1T3O4EEeV3howWc3dPfNuwL2A8dg2j3YWGzteNcSwSmYQ4Wnj3gq4zYAyHg==",
+  "dgSpecHash": "j68+RE2QXE4B5hD99BUdv8B1rfbQ1YrHjXi2mECiJNIV1QZe/OCXco/QF54qiP9hvkjrrAlnteab7AJU9EmHag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Code\\Desktop\\MVC\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+  "projectFilePath": "C:\\Users\\Code\\Desktop\\GitPushPizza\\PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Code\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Code\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.6\\microsoft.aspnetcore.mvc.razor.extensions.6.0.6.nupkg.sha512",
